@@ -1,0 +1,26 @@
+# Compiled Object files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+a.out
+MyFile
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
